@@ -1,0 +1,23 @@
+[
+    {
+      "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/earnest-dogfish-329813.appspot.com/o/team-1.jpg?alt=media&token=5ec96bd3-157b-452f-8eff-00eec5e43e29",
+      "nombre": "Stephen",
+      "titulo": "Marc",
+      "twitter": "@stephen"
+    },
+    {
+      "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/earnest-dogfish-329813.appspot.com/o/team-2.jpg?alt=media&token=8b31f426-d272-4763-9b58-a94bd5c8200f",
+      "numbre": "Smith",
+      "titulo": "Marc",
+      "twitter": "@smaith"
+    },
+    {
+      "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/earnest-dogfish-329813.appspot.com/o/team-3.jpg?alt=media&token=02710814-07f0-4eb2-9b3e-ac6559666755",
+      "nombre": "Jone",
+      "titulo": "Stephen",
+      "twitter": "@jone"
+    }
+  ]
